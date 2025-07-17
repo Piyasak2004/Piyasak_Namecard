@@ -1,6 +1,20 @@
-{
-  "name" : "Piyasak Prasittinawa",
-  "title": "Digital Technology",
-  "phone": "+66 929 470 655",
-  "email": " piyasak.pr@ku.th"
-}
+[
+  {
+    "name": "Piyasak Prasittinawa",
+    "title": "Digital Technology",
+    "phone": "+66 929 470 655",
+    "email": "piyasak.pr@ku.th"
+  },
+  {
+    "name": "Nattawoot Gaboot",
+    "title": "Digital Technology",
+    "phone": "+66 123 456 789",
+    "email": "nattawoot.g@ku.th"
+  },
+  {
+    "name": "Natthanun Siri",
+    "title": "Digital Technology",
+    "phone": "+66 246 810 123",
+    "email": "natthanun.sir@ku.th"
+  }
+]
